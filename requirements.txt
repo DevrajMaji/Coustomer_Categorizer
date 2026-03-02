@@ -20,4 +20,5 @@ wincertstore
 xgboost
 python-multipart
 neuro_mf
--e .
+Flask
+
